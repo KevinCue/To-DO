@@ -1,2 +1,14 @@
-table,th{border:lpx solid black;
-    color:blue;}
+
+table,th,td{
+    border: 1px solid black;
+    color:blue;
+}
+td
+#elt1 {color: green;} 
+table, td{
+    padding: 10px;
+    padding-right:10px
+}
+.completed{
+    background-color:red;
+}
